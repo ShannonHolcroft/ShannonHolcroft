@@ -1,4 +1,4 @@
-Statistics Honours student at the University of Cape Town.
+MSc Biostatistics student at the University of Cape Town.
 
 
 <!---
